@@ -2,7 +2,9 @@
 
 The frontend of a Responsive Multi Page Ecommerce Website is built from scratch using HTML, CSS,Bootstrap, JavaScript.
 
-This project is mainly concerned about developing the frontend for ecommerce website which is a multipage website containing login,About,Services,Contact Product Pages.Each page contains the fixed header and a fixed footer which contain the quick links for contacting.Header Contains the navigation menu along with the company logo,About,Services,Contact,Login buttons on which once they are clicked is redirected to the another page.
+This project is mainly concerned about developing the frontend for ecommerce website which is a multipage website containing login,About,Services,Contact Product Pages.
+
+Each page contains the fixed header and a fixed footer which contain the quick links for contacting.Header Contains the navigation menu along with the company logo,About,Services,Contact,Login buttons on which once they are clicked is redirected to the another page.
 
 ![image](https://user-images.githubusercontent.com/103095458/230983564-1bcba95a-6caf-4967-aefd-d5c494b9682b.png)
 
